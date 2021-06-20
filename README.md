@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @scratchmario123
 - 👀 I’m interested in coding!
-- 🌱 I’m currently learning java!
-- 💞️ I’m looking to collaborate on discord jda bots!
-- 📫 How to reach me? DM me in discord. My username is scratchmario123#4154
+- 🌱 I’m currently learning JAVA!
+- 💞️ I’m looking to collaborate on discord JDA bots and JAVA and PYTHON based programming!
+- 📫 DM me in discord to reach me. My username is scratchmario123#4154
 
 <!---
 scratchmario123/scratchmario123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
